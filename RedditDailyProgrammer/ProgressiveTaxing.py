@@ -1,0 +1,1 @@
+# [2019-07-15] Challenge #379 [Easy] Progressive taxation
